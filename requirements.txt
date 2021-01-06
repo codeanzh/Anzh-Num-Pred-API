@@ -4,7 +4,7 @@ Flask==1.1.2
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
-MarkupSafe @ file:///C:/ci/markupsafe_1607027406824/work
-python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1603979006023/work
+MarkupSafe 
+python-dotenv 
 Werkzeug==1.0.1
 wincertstore==0.2
