@@ -25,9 +25,9 @@ def forward_propagation(parameter, L):
 
 #Loading Model
 
-L = pickle.load(open('/API/length.p', 'rb'))
-weight = pickle.load(open('/API/weight.p', 'rb'))
-bias = pickle.load(open('/API/bias.p', 'rb'))
+L = pickle.load(open('length.p', 'rb'))
+weight = pickle.load(open('weight.p', 'rb'))
+bias = pickle.load(open('bias.p', 'rb'))
 parameter = {}
 
 for l in range(L):
